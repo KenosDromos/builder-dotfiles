@@ -6,4 +6,4 @@ logs/*
 *.tmp
 *.bak
 *.swp
-
+test*
