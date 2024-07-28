@@ -1,5 +1,7 @@
 
-class Git:
+
+# ______________________________________________________________________ GitInterface
+class GitInterface:
     @staticmethod
     def verify_repository(url_repository: str) -> bool:
         pass

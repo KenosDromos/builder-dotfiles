@@ -1,4 +1,4 @@
-# Installer Dotfiles
+# Builder Dotfiles
 
 ## Description
 
@@ -8,13 +8,13 @@ This is a project for managing dotfiles using a user-friendly interface.
 
 Clone the repository:
 
-    git clone https://github.com/KenosDromos/installer-dotfiles
+    git clone https://github.com/KenosDromos/builder-dotfiles
 
-    cd installer-dotfiles
+    cd builder-dotfiles
 
 
 ## Usage
 
 Launch the application using the following command:
 
-    python run.py
+    sudo python run.py

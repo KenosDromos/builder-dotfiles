@@ -1,3 +1,2 @@
 import curses
 
-curses.version
